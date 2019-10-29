@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="whaddup_dawg_text">0</string>
+    <string name="random_heading">Here is a number between 0 and %01d</string>
+</resources>
